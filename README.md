@@ -20,3 +20,11 @@ quản lý mã nguồn trên GitHub và sử dụng Jira.
 - Git: Quản lý phiên bản mã nguồn.
 - GitHub: Lưu trữ và chia sẻ Repository trực tuyến.
 - Jira: Quản lý công việc và tiến độ dự án.
+## Kết quả thực hành
+
+Đã hoàn thành các thao tác:
+- Cài đặt và cấu hình Git.
+- Khởi tạo Repository.
+- Tạo và quản lý các tệp.
+- Thực hiện các thao tác add, commit.
+- Kiểm tra lịch sử thay đổi.
