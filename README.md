@@ -8,3 +8,9 @@
 ## Mục tiêu
 Thực hành các thao tác quản lý phiên bản bằng Git,
 quản lý mã nguồn trên GitHub và sử dụng Jira.
+## Nội dung thực hành
+
+1. Cài đặt và cấu hình Git.
+2. Khởi tạo Repository.
+3. Quản lý tệp bằng Git.
+4. Theo dõi lịch sử thay đổi bằng commit.
