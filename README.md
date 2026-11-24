@@ -14,3 +14,9 @@ quản lý mã nguồn trên GitHub và sử dụng Jira.
 2. Khởi tạo Repository.
 3. Quản lý tệp bằng Git.
 4. Theo dõi lịch sử thay đổi bằng commit.
+## Các công cụ sử dụng
+
+- Visual Studio Code: Soạn thảo và quản lý mã nguồn.
+- Git: Quản lý phiên bản mã nguồn.
+- GitHub: Lưu trữ và chia sẻ Repository trực tuyến.
+- Jira: Quản lý công việc và tiến độ dự án.
