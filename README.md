@@ -28,3 +28,7 @@ quản lý mã nguồn trên GitHub và sử dụng Jira.
 - Tạo và quản lý các tệp.
 - Thực hiện các thao tác add, commit.
 - Kiểm tra lịch sử thay đổi.
+## Thực hành Branch
+
+Đã tạo nhánh feature/update-readme để thực hành
+quy trình phát triển và quản lý mã nguồn bằng Git.
