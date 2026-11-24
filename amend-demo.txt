@@ -1,2 +1,3 @@
 Thuc hanh lenh git commit --amend.
 Hoc phan: ECMP101 - Cong nghe phan mem.
+Dong nay duoc them de thuc hanh git revert.
