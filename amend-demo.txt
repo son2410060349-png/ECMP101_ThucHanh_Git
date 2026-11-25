@@ -1,0 +1,4 @@
+Thuc hanh lenh git commit --amend.
+Hoc phan: ECMP101 - Cong nghe phan mem.
+Noi dung thu nhat de thuc hanh interactive rebase.
+Noi dung thu hai de thuc hanh interactive rebase.
